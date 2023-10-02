@@ -12,4 +12,5 @@ switch (subject) {
     default:
         console.log('이젠 초보자가 아닙니다.');
         break;            
+        
 }
