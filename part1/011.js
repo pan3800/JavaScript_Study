@@ -1,3 +1,4 @@
+
 var number = 2;
 if (number == 1) {
     console.log('number는 1 입니다.')
